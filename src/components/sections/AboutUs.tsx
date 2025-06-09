@@ -10,7 +10,7 @@ export const AboutUs = () => {
         <div className="w-full md:w-5/12 lg:w-1/2">
           <div className="w-full h-80 sm:h-96 relative">
             <img
-              src="public/assets/Diana-vr2.png"
+              src="/assets/Diana-vr2.png"
               className="w-full h-full object-cover rounded-3xl shadow-lg relative z-10"
               alt="About Our Mission"
             />
