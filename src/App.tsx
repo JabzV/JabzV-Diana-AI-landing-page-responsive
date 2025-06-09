@@ -8,7 +8,7 @@ import { Layout } from "./components/shared/Layout";
 
 function App() {
   return (
-    <Layout title="Test Landing Page">
+    <Layout title="DianaAI">
       <Hero />
       <Brands />
       <Services />
