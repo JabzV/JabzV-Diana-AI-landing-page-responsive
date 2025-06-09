@@ -30,7 +30,7 @@ export const Brands = () => {
                 rel="noopener noreferrer"
               >
                 <img
-                  src={`src/assets/logos/${logo}.png`}
+                  src={`assets/logos/${logo}.png`}
                   alt={`${logo}.png`}
                   width="100"
                   height="100"
